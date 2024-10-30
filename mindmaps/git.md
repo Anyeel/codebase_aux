@@ -13,4 +13,16 @@
 
 - git commit -m "mensaje"
 
+## Clonar un repositorio
+
+- git clone `<url>`
+
 ## Subir a github
+
+- gh repo create 
+
+
+## Loguear en github
+
+- gh auth login
+    - iniciamos con HTTPS
